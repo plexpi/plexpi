@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T15:15:27.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="MYAyOpczfG1xPvhMDmT7" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T15:29:41.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="VeiILmxUn3jmd5kkkLI7" version="13.8.8" type="github">
   <diagram id="Hw00q0e1_EGyrgnhiQJS" name="Page-1">
-    <mxGraphModel dx="1426" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T0_l8bEOc6JnCAgAHngF-2" value="torrents_service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T0_l8bEOc6JnCAgAHngF-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T0_l8bEOc6JnCAgAHngF-3" target="T0_l8bEOc6JnCAgAHngF-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -17,13 +17,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T0_l8bEOc6JnCAgAHngF-3" value="download_service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="295" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T0_l8bEOc6JnCAgAHngF-4" value="plex" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="255" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T0_l8bEOc6JnCAgAHngF-5" value="qbittorrent" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="335" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T0_l8bEOc6JnCAgAHngF-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T0_l8bEOc6JnCAgAHngF-6" target="T0_l8bEOc6JnCAgAHngF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -31,11 +31,29 @@
         <mxCell id="T0_l8bEOc6JnCAgAHngF-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T0_l8bEOc6JnCAgAHngF-6" target="T0_l8bEOc6JnCAgAHngF-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0_l8bEOc6JnCAgAHngF-6" value="plexpiplus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="50" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="T0_l8bEOc6JnCAgAHngF-12" value="upsteam torrent provider" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ5dfZ5US8KDUxNtynS0-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-6" y="210" width="216" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ5dfZ5US8KDUxNtynS0-15" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;" vertex="1" parent="ZQ5dfZ5US8KDUxNtynS0-20">
+          <mxGeometry width="216" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ5dfZ5US8KDUxNtynS0-16" value="iOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="ZQ5dfZ5US8KDUxNtynS0-20">
+          <mxGeometry width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-6" value="plexpiplus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;" parent="ZQ5dfZ5US8KDUxNtynS0-20" vertex="1">
+          <mxGeometry x="66" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ5dfZ5US8KDUxNtynS0-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="150" width="420" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ5dfZ5US8KDUxNtynS0-12" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;" vertex="1" parent="ZQ5dfZ5US8KDUxNtynS0-21">
+          <mxGeometry width="420" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ5dfZ5US8KDUxNtynS0-13" value="RaspberryPi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" vertex="1" parent="ZQ5dfZ5US8KDUxNtynS0-21">
+          <mxGeometry x="20" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
