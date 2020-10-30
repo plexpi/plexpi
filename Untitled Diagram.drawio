@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T15:10:17.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="z_nxONnLc1cN4i3s-dNS" version="13.8.8" type="github"><diagram id="Hw00q0e1_EGyrgnhiQJS" name="Page-1">7VhRk5MwEP41fdQpBLB9PHs9bxwdH+qM59NNSrYQDSyG0IK/3gChQPFqnV6Hjt4T7JdsyH5fdheYkEWUv5M0CT8iAzGxpyyfkNuJbVuO7elLiRQ1MrecGggkZ2ZSC6z4TzDg1KAZZ5D2JipEoXjSB32MY/BVD6NS4q4/bYOi/9SEBjAAVj4VQ/QLZyqs0Zn9psXvgQdh82TLm9cjEW0mm0jSkDLcdSCynJCFRFT1XZQvQJTkNbzUfndPjO43JiFWpzh8nj6K2Xr5yffex4ub4OY+Du5eWcRsThVNxMA0AcaMMdaXtxKzmEG5zlRbKFWIAcZUfEBMNGhp8BsoVRj5aKZQQ6GKhBmFnKuHzv3XcqnXrrFuc7NyZRTGqDdW7ubJgA2UYiZ9OBKlbQ4OlQGoY2zYe130gQaMQMlCO0oQVPFtfyPUnKxgP68lX98Y/v9CC7PLLRWZeZJCWQabPqYgt1yHeKhVK0zJ7C7kClYJrbjY6Xzsi7DhQixQoKx8CaMw2/gaT5XE79AZ8fwZrDd7CbYgFeTHRRhyZhxsxxx/k/+WZ+xdm01WkyJhJ5Oaec9Oc1NZrvDIa05l8dA1Ol6l2bpV1gVShZyYKs6YmWJZLxKeL6E7poRkUOx0c4wFUvYPFTt77o5c7JwBzYnQ4Z1F7TMQ5ZADotyxiXIHRP1Yc2Ua8NXxRcjYfM2OcPJ/lVvvxHI76rvl/KVhnq8gGVNB77eVPOGJyNI/5OI1tkr3oAGQ0T8Lhp9fWZIqoFH1y8H0gWkiccsZyPMoZzQN9+3jAv3hkl9Z2mx/WlRjnV8/ZPkL</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-30T15:11:19.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="9Rz9FaB5FSbRdTiHVwC5" version="13.8.8" type="github">
+  <diagram id="Hw00q0e1_EGyrgnhiQJS" name="Page-1">
+    <mxGraphModel dx="1426" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="T0_l8bEOc6JnCAgAHngF-2" target="T0_l8bEOc6JnCAgAHngF-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-2" value="torrents_service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T0_l8bEOc6JnCAgAHngF-3" target="T0_l8bEOc6JnCAgAHngF-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T0_l8bEOc6JnCAgAHngF-3" target="T0_l8bEOc6JnCAgAHngF-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-3" value="download_service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="240" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-4" value="plex" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-5" value="qbittorrent" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T0_l8bEOc6JnCAgAHngF-6" target="T0_l8bEOc6JnCAgAHngF-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T0_l8bEOc6JnCAgAHngF-6" target="T0_l8bEOc6JnCAgAHngF-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-6" value="plexpiplus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="50" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T0_l8bEOc6JnCAgAHngF-12" value="upsteam torrent provider" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
