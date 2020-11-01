@@ -1,5 +1,7 @@
 # plexpi
 
+🚧 **Please note that this is under construction.** 🚧
+
 This organization contains the repositories for a RaspberrryPi based home media server that support downloading torrents via a REST API and an iOS application.
 
 ![Alt text here](diagram/system.png)
