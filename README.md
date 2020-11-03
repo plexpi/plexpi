@@ -20,6 +20,5 @@ A service that exposes a REST API for searching sereies and movies. Uses an othe
 
 ## plexpiplus
 
-*Currently private*
-
 The repository of the iOS app.
+[Source](https://github.com/plexpi/plexpiplus)
